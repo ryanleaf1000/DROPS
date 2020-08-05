@@ -1,0 +1,2 @@
+/usr/bin/ar qc libout-vtkOut.a  CMakeFiles/out-vtkOut.dir/vtkOut.cpp.o
+/usr/bin/ranlib libout-vtkOut.a

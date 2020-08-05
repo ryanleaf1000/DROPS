@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgeom-locator.a  CMakeFiles/geom-locator.dir/locator.cpp.o
+/usr/bin/ranlib libgeom-locator.a

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<VTKFile type="Collection" version="0.1" byte_order="LittleEndian">
+<Collection>
+	<DataSet timestep="0" group="" part="0" file="risingdroplet00.vtu"/>
+	<DataSet timestep="0.125" group="" part="0" file="risingdroplet01.vtu"/>
+	<DataSet timestep="0.25" group="" part="0" file="risingdroplet02.vtu"/>
+	<DataSet timestep="0.375" group="" part="0" file="risingdroplet03.vtu"/>
+	<DataSet timestep="0.5" group="" part="0" file="risingdroplet04.vtu"/>
+	<DataSet timestep="0.625" group="" part="0" file="risingdroplet05.vtu"/>
+	<DataSet timestep="0.75" group="" part="0" file="risingdroplet06.vtu"/>
+	<DataSet timestep="0.875" group="" part="0" file="risingdroplet07.vtu"/>
+	<DataSet timestep="1" group="" part="0" file="risingdroplet08.vtu"/>
+	<DataSet timestep="1.125" group="" part="0" file="risingdroplet09.vtu"/>
+	<DataSet timestep="1.25" group="" part="0" file="risingdroplet10.vtu"/>
+</Collection>
+</VTKFile>

@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblevelset-twophaseutils.a  CMakeFiles/levelset-twophaseutils.dir/twophaseutils.cpp.o
+/usr/bin/ranlib liblevelset-twophaseutils.a

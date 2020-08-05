@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmisc-problem.a  CMakeFiles/misc-problem.dir/problem.cpp.o
+/usr/bin/ranlib libmisc-problem.a

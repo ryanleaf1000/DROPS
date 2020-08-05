@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsurfnavierstokes-logger.a  CMakeFiles/surfnavierstokes-logger.dir/home/qi/Drops/drops/drops/Singleton-Logger/sln/Sources/SingletonLogger.cpp.o
+/usr/bin/ranlib libsurfnavierstokes-logger.a

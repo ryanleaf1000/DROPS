@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgeom-multigrid.a  CMakeFiles/geom-multigrid.dir/multigrid.cpp.o
+/usr/bin/ranlib libgeom-multigrid.a

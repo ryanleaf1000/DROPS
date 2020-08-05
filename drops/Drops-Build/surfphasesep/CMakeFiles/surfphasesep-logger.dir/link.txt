@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsurfphasesep-logger.a  CMakeFiles/surfphasesep-logger.dir/home/qi/Drops/drops/drops/Singleton-Logger/sln/Sources/SingletonLogger.cpp.o
+/usr/bin/ranlib libsurfphasesep-logger.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgeom-topo.a  CMakeFiles/geom-topo.dir/topo.cpp.o
+/usr/bin/ranlib libgeom-topo.a

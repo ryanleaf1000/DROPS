@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblevelset-volume_adjustment.a  CMakeFiles/levelset-volume_adjustment.dir/volume_adjustment.cpp.o
+/usr/bin/ranlib liblevelset-volume_adjustment.a

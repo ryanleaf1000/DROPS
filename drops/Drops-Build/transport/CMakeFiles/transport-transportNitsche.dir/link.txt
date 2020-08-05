@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtransport-transportNitsche.a  CMakeFiles/transport-transportNitsche.dir/transportNitsche.cpp.o
+/usr/bin/ranlib libtransport-transportNitsche.a

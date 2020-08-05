@@ -1,0 +1,2 @@
+/usr/bin/ar qc libnum-oseenprecond.a  CMakeFiles/num-oseenprecond.dir/oseenprecond.cpp.o
+/usr/bin/ranlib libnum-oseenprecond.a

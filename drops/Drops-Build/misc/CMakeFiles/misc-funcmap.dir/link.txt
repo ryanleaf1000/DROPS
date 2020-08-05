@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmisc-funcmap.a  CMakeFiles/misc-funcmap.dir/funcmap.cpp.o
+/usr/bin/ranlib libmisc-funcmap.a

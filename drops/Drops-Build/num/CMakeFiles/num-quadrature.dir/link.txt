@@ -1,0 +1,2 @@
+/usr/bin/ar qc libnum-quadrature.a  CMakeFiles/num-quadrature.dir/quadrature.cpp.o
+/usr/bin/ranlib libnum-quadrature.a

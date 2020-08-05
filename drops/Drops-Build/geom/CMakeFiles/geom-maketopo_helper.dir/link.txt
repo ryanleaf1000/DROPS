@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgeom-maketopo_helper.a  CMakeFiles/geom-maketopo_helper.dir/maketopo_helper.cpp.o
+/usr/bin/ranlib libgeom-maketopo_helper.a

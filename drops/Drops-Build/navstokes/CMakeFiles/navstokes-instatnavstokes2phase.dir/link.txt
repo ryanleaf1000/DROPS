@@ -1,0 +1,2 @@
+/usr/bin/ar qc libnavstokes-instatnavstokes2phase.a  CMakeFiles/navstokes-instatnavstokes2phase.dir/instatnavstokes2phase.cpp.o
+/usr/bin/ranlib libnavstokes-instatnavstokes2phase.a

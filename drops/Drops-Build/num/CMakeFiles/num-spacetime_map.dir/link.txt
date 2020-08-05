@@ -1,0 +1,2 @@
+/usr/bin/ar qc libnum-spacetime_map.a  CMakeFiles/num-spacetime_map.dir/spacetime_map.cpp.o
+/usr/bin/ranlib libnum-spacetime_map.a

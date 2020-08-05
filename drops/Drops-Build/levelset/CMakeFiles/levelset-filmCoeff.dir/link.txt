@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -fopenmp -O3 --fast-math -W -Wall -pedantic -std=c++11 -Wfatal-errors -fPIC  -Wl,--as-needed -shared -Wl,-soname,liblevelset-filmCoeff.so -o liblevelset-filmCoeff.so CMakeFiles/levelset-filmCoeff.dir/filmCoeff.cpp.o 

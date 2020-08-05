@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/qi/Drops/drops/drops/src/misc/base64.cpp
+misc/base64.h
+/home/qi/Drops/drops/drops/src/misc/misc/base64.h
+
+/home/qi/Drops/drops/drops/src/misc/base64.h
+iostream
+-
+

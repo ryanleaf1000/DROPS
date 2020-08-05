@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgeom-simplex.a  CMakeFiles/geom-simplex.dir/simplex.cpp.o
+/usr/bin/ranlib libgeom-simplex.a

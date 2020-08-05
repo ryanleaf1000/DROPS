@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgeom-deformation.a  CMakeFiles/geom-deformation.dir/deformation.cpp.o
+/usr/bin/ranlib libgeom-deformation.a

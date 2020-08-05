@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsurfactant-ifacetransp.a  CMakeFiles/surfactant-ifacetransp.dir/ifacetransp.cpp.o
+/usr/bin/ranlib libsurfactant-ifacetransp.a

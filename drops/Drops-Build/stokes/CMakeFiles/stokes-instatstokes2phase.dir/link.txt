@@ -1,0 +1,2 @@
+/usr/bin/ar qc libstokes-instatstokes2phase.a  CMakeFiles/stokes-instatstokes2phase.dir/instatstokes2phase.cpp.o
+/usr/bin/ranlib libstokes-instatstokes2phase.a

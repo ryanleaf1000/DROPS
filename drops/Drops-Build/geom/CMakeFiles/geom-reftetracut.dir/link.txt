@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgeom-reftetracut.a  CMakeFiles/geom-reftetracut.dir/reftetracut.cpp.o
+/usr/bin/ranlib libgeom-reftetracut.a

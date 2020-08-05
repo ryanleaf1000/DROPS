@@ -1,0 +1,2 @@
+/usr/bin/ar qc libnum-gradient_recovery.a  CMakeFiles/num-gradient_recovery.dir/gradient_recovery.cpp.o
+/usr/bin/ranlib libnum-gradient_recovery.a

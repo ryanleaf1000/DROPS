@@ -1,0 +1,2 @@
+/usr/bin/ar qc libnum-MGsolver.a  CMakeFiles/num-MGsolver.dir/MGsolver.cpp.o
+/usr/bin/ranlib libnum-MGsolver.a

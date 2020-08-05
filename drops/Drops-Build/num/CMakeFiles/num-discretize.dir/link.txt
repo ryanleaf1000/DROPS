@@ -1,0 +1,2 @@
+/usr/bin/ar qc libnum-discretize.a  CMakeFiles/num-discretize.dir/discretize.cpp.o
+/usr/bin/ranlib libnum-discretize.a

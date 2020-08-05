@@ -1,0 +1,2 @@
+/usr/bin/ar qc libpoisson-poissonParam.a  CMakeFiles/poisson-poissonParam.dir/poissonParam.cpp.o
+/usr/bin/ranlib libpoisson-poissonParam.a

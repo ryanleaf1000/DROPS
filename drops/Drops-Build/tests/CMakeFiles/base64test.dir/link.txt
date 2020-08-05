@@ -1,0 +1,1 @@
+/usr/bin/c++   -fopenmp -O3 --fast-math -W -Wall -pedantic -std=c++11 -Wfatal-errors -fPIC   -Wl,--as-needed -rdynamic CMakeFiles/base64test.dir/base64test.cpp.o  -o base64test  ../misc/libmisc-base64.a 

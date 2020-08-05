@@ -1,0 +1,2 @@
+/usr/bin/ar qc libstokes-integrTime.a  CMakeFiles/stokes-integrTime.dir/integrTime.cpp.o
+/usr/bin/ranlib libstokes-integrTime.a

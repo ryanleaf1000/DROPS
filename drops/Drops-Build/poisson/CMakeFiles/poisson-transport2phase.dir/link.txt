@@ -1,0 +1,2 @@
+/usr/bin/ar qc libpoisson-transport2phase.a  CMakeFiles/poisson-transport2phase.dir/transport2phase.cpp.o
+/usr/bin/ranlib libpoisson-transport2phase.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libstokes-slipBndOnePhase.a  CMakeFiles/stokes-slipBndOnePhase.dir/slipBndOnePhase.cpp.o
+/usr/bin/ranlib libstokes-slipBndOnePhase.a

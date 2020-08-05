@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -fopenmp -O3 --fast-math -W -Wall -pedantic -std=c++11 -Wfatal-errors -fPIC  -Wl,--as-needed -shared -Wl,-soname,libstokes-stokesCoeff.so -o libstokes-stokesCoeff.so CMakeFiles/stokes-stokesCoeff.dir/stokesCoeff.cpp.o 

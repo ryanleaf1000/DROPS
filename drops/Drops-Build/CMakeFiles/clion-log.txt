@@ -1,0 +1,18 @@
+/opt/clion-2020.1.2/bin/cmake/linux/bin/cmake -G "CodeBlocks - Unix Makefiles" /home/qi/Drops/drops/drops/src
+-- VTK_DIR = /home/qi/VTK-Release-build
+-- VTK version is 9.0
+-- Trilinos root is /lib/cmake/Trilinos
+-- Trilinos_VERSION = 12.17
+-- Checking if MPI is enabled in Trilinos: MPI ENABLED
+-- MATLAB root is /usr/local/MATLAB/R2020a
+-- GENERATOR is Unix Makefiles
+-- MPI disabled
+-- setting flags for GCC compiler
+-- BUILD TYPE: RELEASE
+-- CXX_COMPILER:               /usr/bin/c++
+-- GLOBAL COMPILER FLAGS:       -fopenmp -O3 --fast-math -W -Wall -pedantic -std=c++11 -Wfatal-errors -fPIC
+-- GLOBAL SHARED LINKER FLAGS:  -Wl,--as-needed
+-- GLOBAL EXE LINKER FLAGS:     -Wl,--as-needed
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/qi/Drops/drops/Drops-Build

@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblevelset-levelset.a  CMakeFiles/levelset-levelset.dir/levelset.cpp.o
+/usr/bin/ranlib liblevelset-levelset.a

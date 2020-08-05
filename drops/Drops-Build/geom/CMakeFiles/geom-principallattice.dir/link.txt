@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgeom-principallattice.a  CMakeFiles/geom-principallattice.dir/principallattice.cpp.o
+/usr/bin/ranlib libgeom-principallattice.a

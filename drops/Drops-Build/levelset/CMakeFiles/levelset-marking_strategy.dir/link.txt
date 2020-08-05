@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblevelset-marking_strategy.a  CMakeFiles/levelset-marking_strategy.dir/marking_strategy.cpp.o
+/usr/bin/ranlib liblevelset-marking_strategy.a

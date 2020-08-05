@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblevelset-adaptriang.a  CMakeFiles/levelset-adaptriang.dir/adaptriang.cpp.o
+/usr/bin/ranlib liblevelset-adaptriang.a

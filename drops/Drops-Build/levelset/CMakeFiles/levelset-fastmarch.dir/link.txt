@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblevelset-fastmarch.a  CMakeFiles/levelset-fastmarch.dir/fastmarch.cpp.o
+/usr/bin/ranlib liblevelset-fastmarch.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libpoisson-ale.a  CMakeFiles/poisson-ale.dir/ale.cpp.o
+/usr/bin/ranlib libpoisson-ale.a

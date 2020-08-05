@@ -1,0 +1,13 @@
+License checkout failed.
+License Manager Error -9
+Your username does not match the username in the license file. 
+To run on this computer, you must run the Activation client to reactivate your license.
+
+Troubleshoot this issue by visiting: 
+https://www.mathworks.com/support/lme/R2020a/9
+
+Diagnostic Information:
+Feature: MATLAB 
+License path: /home/qi/.matlab/R2020a_licenses:/usr/local/MATLAB/R2020a/licenses/license.dat:/usr/local/MATLAB/R20
+20a/licenses/license_qi-Alienware-17-R4_972711_R2020a.lic 
+Licensing error: -9,57.

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libnum-stokespardiso.a  CMakeFiles/num-stokespardiso.dir/stokespardiso.cpp.o
+/usr/bin/ranlib libnum-stokespardiso.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgeom-boundary.a  CMakeFiles/geom-boundary.dir/boundary.cpp.o
+/usr/bin/ranlib libgeom-boundary.a

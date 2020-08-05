@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmisc-params.a  CMakeFiles/misc-params.dir/params.cpp.o
+/usr/bin/ranlib libmisc-params.a

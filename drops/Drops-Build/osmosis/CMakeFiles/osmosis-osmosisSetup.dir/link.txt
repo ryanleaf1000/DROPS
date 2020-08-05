@@ -1,0 +1,2 @@
+/usr/bin/ar qc libosmosis-osmosisSetup.a  CMakeFiles/osmosis-osmosisSetup.dir/osmosisSetup.cpp.o
+/usr/bin/ranlib libosmosis-osmosisSetup.a

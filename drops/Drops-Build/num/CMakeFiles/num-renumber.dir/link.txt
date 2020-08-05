@@ -1,0 +1,2 @@
+/usr/bin/ar qc libnum-renumber.a  CMakeFiles/num-renumber.dir/renumber.cpp.o
+/usr/bin/ranlib libnum-renumber.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblevelset-surfacetension.a  CMakeFiles/levelset-surfacetension.dir/surfacetension.cpp.o
+/usr/bin/ranlib liblevelset-surfacetension.a

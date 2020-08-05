@@ -1,0 +1,2 @@
+/usr/bin/ar qc libnum-hypre.a  CMakeFiles/num-hypre.dir/hypre.cpp.o
+/usr/bin/ranlib libnum-hypre.a

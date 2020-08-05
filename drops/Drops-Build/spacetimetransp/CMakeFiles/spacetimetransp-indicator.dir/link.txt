@@ -1,0 +1,2 @@
+/usr/bin/ar qc libspacetimetransp-indicator.a  CMakeFiles/spacetimetransp-indicator.dir/indicator.cpp.o
+/usr/bin/ranlib libspacetimetransp-indicator.a

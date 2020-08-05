@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgeom-geomselect.a  CMakeFiles/geom-geomselect.dir/geomselect.cpp.o
+/usr/bin/ranlib libgeom-geomselect.a

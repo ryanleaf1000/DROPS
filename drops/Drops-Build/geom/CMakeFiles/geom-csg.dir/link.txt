@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgeom-csg.a  CMakeFiles/geom-csg.dir/csg.cpp.o
+/usr/bin/ranlib libgeom-csg.a

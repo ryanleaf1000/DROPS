@@ -1,0 +1,2 @@
+/usr/bin/ar qc libspacetimetransp-spacetime_setup.a  CMakeFiles/spacetimetransp-spacetime_setup.dir/spacetime_setup.cpp.o
+/usr/bin/ranlib libspacetimetransp-spacetime_setup.a

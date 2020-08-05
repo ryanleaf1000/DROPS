@@ -1,0 +1,2 @@
+/usr/bin/ar qc libnum-interfacePatch.a  CMakeFiles/num-interfacePatch.dir/interfacePatch.cpp.o
+/usr/bin/ranlib libnum-interfacePatch.a

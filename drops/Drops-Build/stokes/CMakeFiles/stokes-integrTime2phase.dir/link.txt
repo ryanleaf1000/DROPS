@@ -1,0 +1,2 @@
+/usr/bin/ar qc libstokes-integrTime2phase.a  CMakeFiles/stokes-integrTime2phase.dir/integrTime2phase.cpp.o
+/usr/bin/ranlib libstokes-integrTime2phase.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libnum-unknowns.a  CMakeFiles/num-unknowns.dir/unknowns.cpp.o
+/usr/bin/ranlib libnum-unknowns.a

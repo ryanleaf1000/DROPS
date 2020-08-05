@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblevelset-coupling.a  CMakeFiles/levelset-coupling.dir/coupling.cpp.o
+/usr/bin/ranlib liblevelset-coupling.a

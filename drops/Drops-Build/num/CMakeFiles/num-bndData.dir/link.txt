@@ -1,0 +1,2 @@
+/usr/bin/ar qc libnum-bndData.a  CMakeFiles/num-bndData.dir/bndData.cpp.o
+/usr/bin/ranlib libnum-bndData.a

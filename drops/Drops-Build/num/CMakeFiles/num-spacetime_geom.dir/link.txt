@@ -1,0 +1,2 @@
+/usr/bin/ar qc libnum-spacetime_geom.a  CMakeFiles/num-spacetime_geom.dir/spacetime_geom.cpp.o
+/usr/bin/ranlib libnum-spacetime_geom.a

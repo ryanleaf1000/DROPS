@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsurfphasesep-hermite.a  CMakeFiles/surfphasesep-hermite.dir/hermite_cubic.cpp.o
+/usr/bin/ranlib libsurfphasesep-hermite.a

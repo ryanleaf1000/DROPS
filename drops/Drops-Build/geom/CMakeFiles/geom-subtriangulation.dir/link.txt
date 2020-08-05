@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgeom-subtriangulation.a  CMakeFiles/geom-subtriangulation.dir/subtriangulation.cpp.o
+/usr/bin/ranlib libgeom-subtriangulation.a

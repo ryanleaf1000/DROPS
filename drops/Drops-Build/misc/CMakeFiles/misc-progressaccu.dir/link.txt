@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmisc-progressaccu.a  CMakeFiles/misc-progressaccu.dir/progressaccu.cpp.o
+/usr/bin/ranlib libmisc-progressaccu.a

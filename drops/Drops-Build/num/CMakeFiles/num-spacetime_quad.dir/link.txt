@@ -1,0 +1,2 @@
+/usr/bin/ar qc libnum-spacetime_quad.a  CMakeFiles/num-spacetime_quad.dir/spacetime_quad.cpp.o
+/usr/bin/ranlib libnum-spacetime_quad.a

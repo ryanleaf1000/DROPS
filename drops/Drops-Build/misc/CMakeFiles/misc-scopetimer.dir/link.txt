@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmisc-scopetimer.a  CMakeFiles/misc-scopetimer.dir/scopetimer.cpp.o
+/usr/bin/ranlib libmisc-scopetimer.a

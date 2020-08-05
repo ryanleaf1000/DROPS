@@ -1,0 +1,2 @@
+/usr/bin/ar qc libnum-fe.a  CMakeFiles/num-fe.dir/fe.cpp.o
+/usr/bin/ranlib libnum-fe.a

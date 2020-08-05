@@ -1,0 +1,2 @@
+/usr/bin/ar qc libspacetimetransp-stxfem.a  CMakeFiles/spacetimetransp-stxfem.dir/stxfem.cpp.o
+/usr/bin/ranlib libspacetimetransp-stxfem.a

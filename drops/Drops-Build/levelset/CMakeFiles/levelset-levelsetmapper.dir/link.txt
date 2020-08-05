@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblevelset-levelsetmapper.a  CMakeFiles/levelset-levelsetmapper.dir/levelsetmapper.cpp.o
+/usr/bin/ranlib liblevelset-levelsetmapper.a
