@@ -45,7 +45,7 @@
           "mb" : 20.0
         }
       },
-      "TestName":                 "KelvinHelmholtzCristophSphere",
+      "TestName":                 "StokesSphere",
       "FE":                       "P2P1",
       "PressureVolumestabType":   "normal",
       "NormalPenaltyPower":       -2,
