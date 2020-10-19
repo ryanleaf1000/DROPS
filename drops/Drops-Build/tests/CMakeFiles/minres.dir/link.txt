@@ -1,1 +1,1 @@
-/usr/bin/c++   -fopenmp -O3 --fast-math -W -Wall -pedantic -std=c++11 -Wfatal-errors -fPIC   -Wl,--as-needed -rdynamic CMakeFiles/minres.dir/minres.cpp.o  -o minres  ../misc/libmisc-utils.a 
+/usr/bin/c++   -fopenmp -O3 --fast-math -W -Wall -pedantic -std=c++11 -Wfatal-errors -fPIC -g   -Wl,--as-needed -rdynamic CMakeFiles/minres.dir/minres.cpp.o  -o minres  ../misc/libmisc-utils.a 

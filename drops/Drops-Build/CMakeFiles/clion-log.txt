@@ -1,4 +1,4 @@
-/opt/clion-2020.1.2/bin/cmake/linux/bin/cmake -G "CodeBlocks - Unix Makefiles" /home/qi/Drops/drops/drops/src
+/opt/clion-2020.1.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/qi/Drops/drops/drops/src
 -- VTK_DIR = /home/qi/VTK-Release-build
 -- VTK version is 9.0
 -- Trilinos root is /lib/cmake/Trilinos

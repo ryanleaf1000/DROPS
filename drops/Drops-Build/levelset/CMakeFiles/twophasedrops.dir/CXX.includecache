@@ -343,6 +343,8 @@ out/output.h
 /home/qi/Drops/drops/drops/src/levelset/out/output.h
 out/ensightOut.h
 /home/qi/Drops/drops/drops/src/levelset/out/ensightOut.h
+csignal
+-
 out/vtkOut.h
 /home/qi/Drops/drops/drops/src/levelset/out/vtkOut.h
 levelset/coupling.h
@@ -1114,6 +1116,8 @@ levelset/levelset.h
 
 /home/qi/Drops/drops/drops/src/stokes/instatstokes2phase.h
 memory
+-
+surfactant/ifacetransp.h
 -
 stokes/stokes.h
 /home/qi/Drops/drops/drops/src/stokes/stokes/stokes.h

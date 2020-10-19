@@ -105,7 +105,7 @@
             "CoarsestLevel": 0, 
             "Freq": 1, 
             "LoadBalStrategy": 1011, 
-            "FinestLevel": 2, 
+            "FinestLevel": 0, 
             "Width": 0.1
         }
     }, 

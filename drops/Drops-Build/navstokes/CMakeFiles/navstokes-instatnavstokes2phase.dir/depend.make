@@ -10,6 +10,7 @@ navstokes/CMakeFiles/navstokes-instatnavstokes2phase.dir/instatnavstokes2phase.c
 navstokes/CMakeFiles/navstokes-instatnavstokes2phase.dir/instatnavstokes2phase.cpp.o: /home/qi/Drops/drops/drops/src/DiST/remotedata.tpp
 navstokes/CMakeFiles/navstokes-instatnavstokes2phase.dir/instatnavstokes2phase.cpp.o: /home/qi/Drops/drops/drops/src/geom/boundary.h
 navstokes/CMakeFiles/navstokes-instatnavstokes2phase.dir/instatnavstokes2phase.cpp.o: /home/qi/Drops/drops/drops/src/geom/builder.h
+navstokes/CMakeFiles/navstokes-instatnavstokes2phase.dir/instatnavstokes2phase.cpp.o: /home/qi/Drops/drops/drops/src/geom/locator.h
 navstokes/CMakeFiles/navstokes-instatnavstokes2phase.dir/instatnavstokes2phase.cpp.o: /home/qi/Drops/drops/drops/src/geom/multigrid.h
 navstokes/CMakeFiles/navstokes-instatnavstokes2phase.dir/instatnavstokes2phase.cpp.o: /home/qi/Drops/drops/drops/src/geom/principallattice.h
 navstokes/CMakeFiles/navstokes-instatnavstokes2phase.dir/instatnavstokes2phase.cpp.o: /home/qi/Drops/drops/drops/src/geom/reftetracut.h
@@ -21,6 +22,7 @@ navstokes/CMakeFiles/navstokes-instatnavstokes2phase.dir/instatnavstokes2phase.c
 navstokes/CMakeFiles/navstokes-instatnavstokes2phase.dir/instatnavstokes2phase.cpp.o: /home/qi/Drops/drops/drops/src/geom/topo.h
 navstokes/CMakeFiles/navstokes-instatnavstokes2phase.dir/instatnavstokes2phase.cpp.o: /home/qi/Drops/drops/drops/src/levelset/levelset.h
 navstokes/CMakeFiles/navstokes-instatnavstokes2phase.dir/instatnavstokes2phase.cpp.o: /home/qi/Drops/drops/drops/src/levelset/levelset.tpp
+navstokes/CMakeFiles/navstokes-instatnavstokes2phase.dir/instatnavstokes2phase.cpp.o: /home/qi/Drops/drops/drops/src/levelset/levelsetmapper.h
 navstokes/CMakeFiles/navstokes-instatnavstokes2phase.dir/instatnavstokes2phase.cpp.o: /home/qi/Drops/drops/drops/src/levelset/mgobserve.h
 navstokes/CMakeFiles/navstokes-instatnavstokes2phase.dir/instatnavstokes2phase.cpp.o: /home/qi/Drops/drops/drops/src/levelset/surfacetension.h
 navstokes/CMakeFiles/navstokes-instatnavstokes2phase.dir/instatnavstokes2phase.cpp.o: /home/qi/Drops/drops/drops/src/levelset/volume_adjustment.h
@@ -51,6 +53,11 @@ navstokes/CMakeFiles/navstokes-instatnavstokes2phase.dir/instatnavstokes2phase.c
 navstokes/CMakeFiles/navstokes-instatnavstokes2phase.dir/instatnavstokes2phase.cpp.o: /home/qi/Drops/drops/drops/src/num/interfacePatch.tpp
 navstokes/CMakeFiles/navstokes-instatnavstokes2phase.dir/instatnavstokes2phase.cpp.o: /home/qi/Drops/drops/drops/src/num/krylovsolver.h
 navstokes/CMakeFiles/navstokes-instatnavstokes2phase.dir/instatnavstokes2phase.cpp.o: /home/qi/Drops/drops/drops/src/num/lattice-eval.h
+navstokes/CMakeFiles/navstokes-instatnavstokes2phase.dir/instatnavstokes2phase.cpp.o: /home/qi/Drops/drops/drops/src/num/newton.h
+navstokes/CMakeFiles/navstokes-instatnavstokes2phase.dir/instatnavstokes2phase.cpp.o: /home/qi/Drops/drops/drops/src/num/oseenprecond.h
+navstokes/CMakeFiles/navstokes-instatnavstokes2phase.dir/instatnavstokes2phase.cpp.o: /home/qi/Drops/drops/drops/src/num/oseensolver.h
+navstokes/CMakeFiles/navstokes-instatnavstokes2phase.dir/instatnavstokes2phase.cpp.o: /home/qi/Drops/drops/drops/src/num/oswald_projection.h
+navstokes/CMakeFiles/navstokes-instatnavstokes2phase.dir/instatnavstokes2phase.cpp.o: /home/qi/Drops/drops/drops/src/num/precond.h
 navstokes/CMakeFiles/navstokes-instatnavstokes2phase.dir/instatnavstokes2phase.cpp.o: /home/qi/Drops/drops/drops/src/num/prolongation.h
 navstokes/CMakeFiles/navstokes-instatnavstokes2phase.dir/instatnavstokes2phase.cpp.o: /home/qi/Drops/drops/drops/src/num/prolongation.tpp
 navstokes/CMakeFiles/navstokes-instatnavstokes2phase.dir/instatnavstokes2phase.cpp.o: /home/qi/Drops/drops/drops/src/num/quadrature.h
@@ -79,6 +86,8 @@ navstokes/CMakeFiles/navstokes-instatnavstokes2phase.dir/instatnavstokes2phase.c
 navstokes/CMakeFiles/navstokes-instatnavstokes2phase.dir/instatnavstokes2phase.cpp.o: /home/qi/Drops/drops/drops/src/stokes/slipBndOnePhase.h
 navstokes/CMakeFiles/navstokes-instatnavstokes2phase.dir/instatnavstokes2phase.cpp.o: /home/qi/Drops/drops/drops/src/stokes/stokes.h
 navstokes/CMakeFiles/navstokes-instatnavstokes2phase.dir/instatnavstokes2phase.cpp.o: /home/qi/Drops/drops/drops/src/stokes/stokes.tpp
+navstokes/CMakeFiles/navstokes-instatnavstokes2phase.dir/instatnavstokes2phase.cpp.o: /home/qi/Drops/drops/drops/src/surfactant/ifacetransp.h
+navstokes/CMakeFiles/navstokes-instatnavstokes2phase.dir/instatnavstokes2phase.cpp.o: /home/qi/Drops/drops/drops/src/surfactant/ifacetransp.tpp
 navstokes/CMakeFiles/navstokes-instatnavstokes2phase.dir/instatnavstokes2phase.cpp.o: /include/Epetra_BLAS.h
 navstokes/CMakeFiles/navstokes-instatnavstokes2phase.dir/instatnavstokes2phase.cpp.o: /include/Epetra_BasicDirectory.h
 navstokes/CMakeFiles/navstokes-instatnavstokes2phase.dir/instatnavstokes2phase.cpp.o: /include/Epetra_BlockMap.h

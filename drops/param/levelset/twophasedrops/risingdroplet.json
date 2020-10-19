@@ -24,17 +24,17 @@
                 "E1": [1,0,0],               // Basis to span the object,
                 "E2": [0,1,0],               // not necessary orthonormal 
                 "E3": [0,0,2],               // ... 
-                "N1": 3,                     // Number of cells along the E1-direction,
-                "N2": 3,                     //                       the E2-direction,
-                "N3": 6,                     //                       the E3-direction.
+                "N1": 6,                     // Number of cells along the E1-direction,
+                "N2": 6,                     //                       the E2-direction,
+                "N3": 12,                     //                       the E3-direction.
                 "RestartFile": "",           // If set, read the triangulation from the file (via FileBuilderCL).
                                              // and set boundary segments via domain builder (specified in "Type")
                                              
                 // adaptive refinement
                 "AdaptRef":
                 {
-                        "Freq":                 1,      // number of timesteps before adaptive refinement is carried out.
-                        "FinestLevel":          2,      // number of refinement levels and label of the finest level
+                        "Freq":                 10,      // number of timesteps before adaptive refinement is carried out.
+                        "FinestLevel":         2,      // number of refinement levels and label of the finest level
                                                         // close to the phase boundary.
                         "CoarsestLevel":        0,      // label of coarsest level close to the phase boundary.
                         "Width":                0.1     // domain of refinement.
@@ -121,7 +121,7 @@
                 "InitialValue":         0,                 // initial conditions (0 = zero, 1/2 = stationary
                                                            // flow with/without droplet).   //TODO : Entferne -1 aus DROPS
        
-                "XFEMReduced":          0.1,    // threshold for discarding additional dof parameters in
+                "XFEMReduced":          0.0,    // threshold for discarding additional dof parameters in
                                                 // the XFEM pressure space (0=keep all). Using a negative value
                                                 // yields the standard FEM pressure space.
                 "GhostPenalty":         0.0,    // ghost penalty stabilization used for pressure xfem space
@@ -130,7 +130,7 @@
                 {
                     "Velocity":
                     {
-                        "Default":              ["Dir0BC"]     // optional; if not set UndefinedBC_ is the default.                                               
+                        "Default":              ["NoBC"]     // Dir0BC // optional; if not set UndefinedBC_ is the default.
                     }
                 }
         },

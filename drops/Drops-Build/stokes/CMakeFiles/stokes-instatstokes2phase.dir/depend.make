@@ -10,6 +10,7 @@ stokes/CMakeFiles/stokes-instatstokes2phase.dir/instatstokes2phase.cpp.o: /home/
 stokes/CMakeFiles/stokes-instatstokes2phase.dir/instatstokes2phase.cpp.o: /home/qi/Drops/drops/drops/src/DiST/remotedata.tpp
 stokes/CMakeFiles/stokes-instatstokes2phase.dir/instatstokes2phase.cpp.o: /home/qi/Drops/drops/drops/src/geom/boundary.h
 stokes/CMakeFiles/stokes-instatstokes2phase.dir/instatstokes2phase.cpp.o: /home/qi/Drops/drops/drops/src/geom/builder.h
+stokes/CMakeFiles/stokes-instatstokes2phase.dir/instatstokes2phase.cpp.o: /home/qi/Drops/drops/drops/src/geom/locator.h
 stokes/CMakeFiles/stokes-instatstokes2phase.dir/instatstokes2phase.cpp.o: /home/qi/Drops/drops/drops/src/geom/multigrid.h
 stokes/CMakeFiles/stokes-instatstokes2phase.dir/instatstokes2phase.cpp.o: /home/qi/Drops/drops/drops/src/geom/principallattice.h
 stokes/CMakeFiles/stokes-instatstokes2phase.dir/instatstokes2phase.cpp.o: /home/qi/Drops/drops/drops/src/geom/reftetracut.h
@@ -21,6 +22,7 @@ stokes/CMakeFiles/stokes-instatstokes2phase.dir/instatstokes2phase.cpp.o: /home/
 stokes/CMakeFiles/stokes-instatstokes2phase.dir/instatstokes2phase.cpp.o: /home/qi/Drops/drops/drops/src/geom/topo.h
 stokes/CMakeFiles/stokes-instatstokes2phase.dir/instatstokes2phase.cpp.o: /home/qi/Drops/drops/drops/src/levelset/levelset.h
 stokes/CMakeFiles/stokes-instatstokes2phase.dir/instatstokes2phase.cpp.o: /home/qi/Drops/drops/drops/src/levelset/levelset.tpp
+stokes/CMakeFiles/stokes-instatstokes2phase.dir/instatstokes2phase.cpp.o: /home/qi/Drops/drops/drops/src/levelset/levelsetmapper.h
 stokes/CMakeFiles/stokes-instatstokes2phase.dir/instatstokes2phase.cpp.o: /home/qi/Drops/drops/drops/src/levelset/mgobserve.h
 stokes/CMakeFiles/stokes-instatstokes2phase.dir/instatstokes2phase.cpp.o: /home/qi/Drops/drops/drops/src/levelset/surfacetension.h
 stokes/CMakeFiles/stokes-instatstokes2phase.dir/instatstokes2phase.cpp.o: /home/qi/Drops/drops/drops/src/levelset/volume_adjustment.h
@@ -49,6 +51,11 @@ stokes/CMakeFiles/stokes-instatstokes2phase.dir/instatstokes2phase.cpp.o: /home/
 stokes/CMakeFiles/stokes-instatstokes2phase.dir/instatstokes2phase.cpp.o: /home/qi/Drops/drops/drops/src/num/interfacePatch.tpp
 stokes/CMakeFiles/stokes-instatstokes2phase.dir/instatstokes2phase.cpp.o: /home/qi/Drops/drops/drops/src/num/krylovsolver.h
 stokes/CMakeFiles/stokes-instatstokes2phase.dir/instatstokes2phase.cpp.o: /home/qi/Drops/drops/drops/src/num/lattice-eval.h
+stokes/CMakeFiles/stokes-instatstokes2phase.dir/instatstokes2phase.cpp.o: /home/qi/Drops/drops/drops/src/num/newton.h
+stokes/CMakeFiles/stokes-instatstokes2phase.dir/instatstokes2phase.cpp.o: /home/qi/Drops/drops/drops/src/num/oseenprecond.h
+stokes/CMakeFiles/stokes-instatstokes2phase.dir/instatstokes2phase.cpp.o: /home/qi/Drops/drops/drops/src/num/oseensolver.h
+stokes/CMakeFiles/stokes-instatstokes2phase.dir/instatstokes2phase.cpp.o: /home/qi/Drops/drops/drops/src/num/oswald_projection.h
+stokes/CMakeFiles/stokes-instatstokes2phase.dir/instatstokes2phase.cpp.o: /home/qi/Drops/drops/drops/src/num/precond.h
 stokes/CMakeFiles/stokes-instatstokes2phase.dir/instatstokes2phase.cpp.o: /home/qi/Drops/drops/drops/src/num/prolongation.h
 stokes/CMakeFiles/stokes-instatstokes2phase.dir/instatstokes2phase.cpp.o: /home/qi/Drops/drops/drops/src/num/prolongation.tpp
 stokes/CMakeFiles/stokes-instatstokes2phase.dir/instatstokes2phase.cpp.o: /home/qi/Drops/drops/drops/src/num/quadrature.h
@@ -78,6 +85,9 @@ stokes/CMakeFiles/stokes-instatstokes2phase.dir/instatstokes2phase.cpp.o: /home/
 stokes/CMakeFiles/stokes-instatstokes2phase.dir/instatstokes2phase.cpp.o: /home/qi/Drops/drops/drops/src/stokes/slipBndOnePhase.h
 stokes/CMakeFiles/stokes-instatstokes2phase.dir/instatstokes2phase.cpp.o: /home/qi/Drops/drops/drops/src/stokes/stokes.h
 stokes/CMakeFiles/stokes-instatstokes2phase.dir/instatstokes2phase.cpp.o: /home/qi/Drops/drops/drops/src/stokes/stokes.tpp
+stokes/CMakeFiles/stokes-instatstokes2phase.dir/instatstokes2phase.cpp.o: /home/qi/Drops/drops/drops/src/surfactant/ifacetransp.cpp
+stokes/CMakeFiles/stokes-instatstokes2phase.dir/instatstokes2phase.cpp.o: /home/qi/Drops/drops/drops/src/surfactant/ifacetransp.h
+stokes/CMakeFiles/stokes-instatstokes2phase.dir/instatstokes2phase.cpp.o: /home/qi/Drops/drops/drops/src/surfactant/ifacetransp.tpp
 stokes/CMakeFiles/stokes-instatstokes2phase.dir/instatstokes2phase.cpp.o: /include/Epetra_BLAS.h
 stokes/CMakeFiles/stokes-instatstokes2phase.dir/instatstokes2phase.cpp.o: /include/Epetra_BasicDirectory.h
 stokes/CMakeFiles/stokes-instatstokes2phase.dir/instatstokes2phase.cpp.o: /include/Epetra_BlockMap.h

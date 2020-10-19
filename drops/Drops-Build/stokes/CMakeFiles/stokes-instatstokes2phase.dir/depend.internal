@@ -11,6 +11,7 @@ stokes/CMakeFiles/stokes-instatstokes2phase.dir/instatstokes2phase.cpp.o
  /home/qi/Drops/drops/drops/src/DiST/remotedata.tpp
  /home/qi/Drops/drops/drops/src/geom/boundary.h
  /home/qi/Drops/drops/drops/src/geom/builder.h
+ /home/qi/Drops/drops/drops/src/geom/locator.h
  /home/qi/Drops/drops/drops/src/geom/multigrid.h
  /home/qi/Drops/drops/drops/src/geom/principallattice.h
  /home/qi/Drops/drops/drops/src/geom/reftetracut.h
@@ -22,6 +23,7 @@ stokes/CMakeFiles/stokes-instatstokes2phase.dir/instatstokes2phase.cpp.o
  /home/qi/Drops/drops/drops/src/geom/topo.h
  /home/qi/Drops/drops/drops/src/levelset/levelset.h
  /home/qi/Drops/drops/drops/src/levelset/levelset.tpp
+ /home/qi/Drops/drops/drops/src/levelset/levelsetmapper.h
  /home/qi/Drops/drops/drops/src/levelset/mgobserve.h
  /home/qi/Drops/drops/drops/src/levelset/surfacetension.h
  /home/qi/Drops/drops/drops/src/levelset/volume_adjustment.h
@@ -50,6 +52,11 @@ stokes/CMakeFiles/stokes-instatstokes2phase.dir/instatstokes2phase.cpp.o
  /home/qi/Drops/drops/drops/src/num/interfacePatch.tpp
  /home/qi/Drops/drops/drops/src/num/krylovsolver.h
  /home/qi/Drops/drops/drops/src/num/lattice-eval.h
+ /home/qi/Drops/drops/drops/src/num/newton.h
+ /home/qi/Drops/drops/drops/src/num/oseenprecond.h
+ /home/qi/Drops/drops/drops/src/num/oseensolver.h
+ /home/qi/Drops/drops/drops/src/num/oswald_projection.h
+ /home/qi/Drops/drops/drops/src/num/precond.h
  /home/qi/Drops/drops/drops/src/num/prolongation.h
  /home/qi/Drops/drops/drops/src/num/prolongation.tpp
  /home/qi/Drops/drops/drops/src/num/quadrature.h
@@ -79,6 +86,9 @@ stokes/CMakeFiles/stokes-instatstokes2phase.dir/instatstokes2phase.cpp.o
  /home/qi/Drops/drops/drops/src/stokes/slipBndOnePhase.h
  /home/qi/Drops/drops/drops/src/stokes/stokes.h
  /home/qi/Drops/drops/drops/src/stokes/stokes.tpp
+ /home/qi/Drops/drops/drops/src/surfactant/ifacetransp.cpp
+ /home/qi/Drops/drops/drops/src/surfactant/ifacetransp.h
+ /home/qi/Drops/drops/drops/src/surfactant/ifacetransp.tpp
  /include/Epetra_BLAS.h
  /include/Epetra_BasicDirectory.h
  /include/Epetra_BlockMap.h
